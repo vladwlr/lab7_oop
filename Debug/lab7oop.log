@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Пользователь\source\repos\lab7oop\Source.cpp(31,15): warning C4566: character represented by universal-character-name '\u03B8' cannot be represented in the current code page (1251)
+  lab7oop.vcxproj -> C:\Users\Пользователь\source\repos\lab7oop\Debug\lab7oop.exe
